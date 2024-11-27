@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import HomePage from './Components/HomePage';
 import QuizPage from './Components/QuizPage';
 import ResultPage from './Components/ResultPage';
+
 import './App.css'
 function App() {
   const [page, setPage] = useState('home');
