@@ -1,6 +1,6 @@
 
 body {
-  background-color: rgba(31, 90, 255, 0.9);
+  background-color: rgba(200, 216, 233, 0.9);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
   color: #333;
@@ -83,47 +83,16 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .logo {
-  max-width: 40px;
-  height: auto;
+  width: 70px;
+  height: 70px;
   margin-right: 10px;
 }
 .search-input{
   width: 800px;
-  height: 30px;
+  height: 50px;
   font-size: 30px;
   border-radius: 18px;
   text-align: center;
   align-items: center;
 
-}
-.correct {
-  background-color: green;
-  color: white;
-}
-.wrong {
-  background-color: red;
-  color: white;
-}
-.timer {
-  color: #000000;
-  font-size: 30px;
-  font-family: "Times New Roman", serif;
-}
-.next-btn {
-  width: 250px;
-  height: 20;
-  margin-top: 20px;
-  padding: 10px 15px;
-  background-color: #98c0eb;
-  color: rgb(0, 0, 0);
-  border-radius: 10px;
-}
-.navtimer{
-  display: flex;
-  
-  width: 100px;
-  border-radius: 25px;
-  align-items: end;
-  justify-content: end;
-  background-color: aliceblue;
 }
